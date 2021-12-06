@@ -32,8 +32,6 @@ A preview of the page is available [here](https://content.codecademy.com/program
 ## Technologies and tools
 - HTML 5
 - CSS 3
-- Git
-- GitHub
 
 ## Demonstration
 [Try it on GitHub!](https://dyrits.github.io/EXCURSION/)
