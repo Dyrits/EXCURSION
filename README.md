@@ -7,15 +7,8 @@ Web page which advertises a product called “Excursion”.
 - [General information](#general-information)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies-and-tools)
-- [Installation](#installation)
 - [Demonstration](#demonstration)
 - [Status](#status)
-    - [Features](#features)
-    - [Issues](#issues)
-    - [Changelog](#changelog)
-    - [To-do](#to-do)
-- [Contributing](#contributing)
-- [Licence](#licence)
 - [Contact](#contact)
 
 ## Related content
