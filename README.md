@@ -36,7 +36,7 @@ A preview of the page is available [here](https://content.codecademy.com/program
 - GitHub
 
 ## Demonstration
-[Try it!] (https://dyrits.github.io/EXCURSION/)
+[Try it on GitHub!](https://dyrits.github.io/EXCURSION/)
 
 ## Status
 **Version 1.00.00 (06/12/2021)**  
